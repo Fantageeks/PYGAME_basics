@@ -15,8 +15,8 @@
   * Pygame提供許多內建的game objects來製作遊戲 <br><br>
 
 **_3. PYGame Basics_**:
-    | name | Description |
-    |:-----:|:----------:|
-    | _1.py_ | Create my game surface, game loop and drawing.|
-    | _2.py_ | Blit text, font, sound and image objects.   |
-    | _3.py_ | Getting user keyboard and collision dection.|
+| name | Description |
+|:-----:|:----------:|
+| _1.py_ | Create my game surface, game loop and drawing.|
+| _2.py_ | Blit text, font, sound and image objects.   |
+| _3.py_ | Getting user keyboard and collision dection.|
