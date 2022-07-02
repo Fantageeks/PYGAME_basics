@@ -1,11 +1,9 @@
-# PYTHON GAMES: 利用Pygame module 自己創造的小遊戲
+# PYTHON GAMES: 自己創造的小遊戲
 
 1. **參考資料**
     1. Pygame Page:   http://pygame.org
     2. documentation: http://pygame.org/docs/ref/
-    3. Icon Archive:  https://iconarchive.com/   (下載遊戲角色)
-    4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
-    5. ~~XXXXXXX 忘記了~~ <br><br>
+    3. ~~XXXXXXX 忘記了~~ <br><br>
  ------
 
 **_2. What is Pygame_**:
@@ -14,7 +12,7 @@
   * Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
   * Pygame提供許多內建的game objects來製作遊戲 <br><br>
 
-**_3. PYGame Basics_**:
+**_3. PYGame Basics Code_**:
 | Code | Description |
 |:-----:|:----------:|
 | _1.py_ | Create my game surface, game loop and drawing.|
@@ -37,3 +35,7 @@ player_rect.left = 32
 player_rect.centery = WINDOW_HEIGHT//2
 displayscreen.blit(player_image, player_rect)
 ```
+**_5. Game Assets:_**:
+    * [Icon Archive:](https://iconarchive.com/) 網站提供很多遊戲角色下載
+
+    4. Leshy SFMaker: https://www.leshylabs.com/apps/sfMaker/ (下載音效)
